@@ -1,0 +1,3 @@
+Consola de python:
+
+pip install SpeechRecognition

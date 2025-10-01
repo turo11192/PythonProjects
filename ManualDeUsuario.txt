@@ -1,0 +1,30 @@
+-----USO-----
+
+1. Abrir el programa en Visual Studio Code: 
+(click derecho sobre el archivo "Ejecutar_Transcripcion.py", luego seleccionar "abrir con" y por último seleccionar ¨Visual Strudio Code¨).
+
+2. Darle click al triangulo apuntando a la derecho ubicado en la parte superior derecha de Visual Studio Code (En próximas versiones se espera que el programa sea más intuitivo).
+
+3. Empezar a hablar: 
+(El programa le proporcionará un mensaje para que el usuario empieze a hablar, este mensaje estara ubicado en la parte inferior central del programa Visual Studio Code).
+
+4. La transcripcion será guardada junto con el audio grabado en carpetas separadas dentro de la misma ruta de este archivo de texto (la transcripción dentro de un archive word y el audio en un archive wav, ambos identificados con la fecha de grabación de los mismos).
+
+5. Si ya termino de hablar simplemente guarde silencio para que el programa guarde la transcipcion y el audio.
+
+6. Si se desea iniciar otra transcripción simplemente repita desde el punto 2 de la parte de "USO" dentro de este manual.
+
+
+
+
+-----RECOMENDACIONES-----
+
+1. Se recomienda que a la hora de grabar, el usuario hable de una forma clara con un ritmo constante (no muy rapido o muy lento).
+
+2. Se recomienda hablar con un volúmen de voz medio, no muy bajo o el programa podria no reconocer lo que el usuario está diciendo.
+
+3. Se recomienda que no haya interrupciones para que el audio sea lo más limpio posible.
+
+4. No quedarse sin hablar por periodos largos de tiempo porque el programa lo toma que el usuario termino ded hablar (En caso de que lo haga siempre puede iniciar una nueva transcripción).
+
+5. Si no le gusto una transcripción o esta salió mal/se cancel por cualquier razón, simplemente inicie una nueva.
